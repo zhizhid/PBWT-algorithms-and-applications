@@ -92,4 +92,4 @@ This document lists publications related to the Positional Burrows-Wheeler Trans
 
 ---
 
-*Note: \* denotes corresponding author; underscored names indicate trainees*
+*Note: \* denotes corresponding author*
