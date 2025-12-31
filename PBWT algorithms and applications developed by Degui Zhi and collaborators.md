@@ -8,37 +8,37 @@ This document lists publications related to the Positional Burrows-Wheeler Trans
 
 ### Core PBWT Algorithm Papers
 
-1. **Naseri A, Zhi D, Zhang S.** Multi-allelic positional Burrows-Wheeler transform. *BMC Bioinformatics* 20(11):279, 2019.
+1. **Naseri A, Zhi D, Zhang S.** Multi-allelic positional Burrows-Wheeler transform. *BMC Bioinformatics* 20(11):279, 2019. [DOI](https://doi.org/10.1186/s12859-019-2821-6)
 
-2. **Sanaullah A, Zhi D\*, Zhang S\*.** d-PBWT: dynamic positional Burrows-Wheeler transform. *Bioinformatics* 37(16):2390-7, 2021.
+2. **Sanaullah A, Zhi D\*, Zhang S\*.** d-PBWT: dynamic positional Burrows-Wheeler transform. *Bioinformatics* 37(16):2390-7, 2021. [DOI](https://doi.org/10.1093/bioinformatics/btab117)
 
-3. **Yue W, Naseri A, Wang V, Shakya P, Zhang S, Zhi D\*.** P-smoother: efficient PBWT smoothing of large haplotype panels. *Bioinformatics Advances* 2(1):vbac045, 2022.
+3. **Yue W, Naseri A, Wang V, Shakya P, Zhang S, Zhi D\*.** P-smoother: efficient PBWT smoothing of large haplotype panels. *Bioinformatics Advances* 2(1):vbac045, 2022. [DOI](https://doi.org/10.1093/bioadv/vbac045)
 
-4. **Wang V, Naseri A, Zhang S, Zhi D\*.** Syllable-PBWT for space-efficient haplotype long-match query. *Bioinformatics* 39(1), 2023.
+4. **Wang V, Naseri A, Zhang S, Zhi D\*.** Syllable-PBWT for space-efficient haplotype long-match query. *Bioinformatics* 39(1):btac734, 2023. [DOI](https://doi.org/10.1093/bioinformatics/btac734)
 
-5. **Sanaullah A, Zhi D\*, Zhang S\*.** Minimal positional substring cover is a haplotype threading alternative to Li and Stephens Model. *Genome Research* gr.277673.123, 2023.
+5. **Sanaullah A, Zhi D\*, Zhang S\*.** Minimal positional substring cover is a haplotype threading alternative to Li and Stephens Model. *Genome Research* 33(7):1007-1014, 2023. [DOI](https://doi.org/10.1101/gr.277673.123)
 
 ### IBD Detection and Application Papers
 
-6. **Naseri A, Liu X, Tang K, Zhang S\*, Zhi D\*.** RaPID: ultra-fast, powerful, and accurate detection of segments identical by descent (IBD) in biobank-scale cohorts. *Genome Biology* 20(1):143, 2019.
+6. **Naseri A, Liu X, Tang K, Zhang S\*, Zhi D\*.** RaPID: ultra-fast, powerful, and accurate detection of segments identical by descent (IBD) in biobank-scale cohorts. *Genome Biology* 20(1):143, 2019. [DOI](https://doi.org/10.1186/s13059-019-1754-8)
 
-7. **Naseri A, Holzhauser E, Zhi D\*, Zhang S\*.** Efficient haplotype matching between a query and a panel for genealogical search. *Bioinformatics* 35(14):i233-i241, 2019. (ISMB 2019)
+7. **Naseri A, Holzhauser E, Zhi D\*, Zhang S\*.** Efficient haplotype matching between a query and a panel for genealogical search. *Bioinformatics* 35(14):i233-i241, 2019. (ISMB 2019) [DOI](https://doi.org/10.1093/bioinformatics/btz347)
 
-8. **Naseri A, Shi J, Lin X, Zhang S, Zhi D\*.** RAFFI: Accurate and fast familial relationship inference in large scale biobank studies using RaPID. *PLoS Genetics* 17(1):e1009315, 2021.
+8. **Naseri A, Shi J, Lin X, Zhang S, Zhi D\*.** RAFFI: Accurate and fast familial relationship inference in large scale biobank studies using RaPID. *PLoS Genetics* 17(1):e1009315, 2021. [DOI](https://doi.org/10.1371/journal.pgen.1009315)
 
-9. **Naseri A, Tang K, Geng X, Shi J, Zhang J, Shakya P, Liu X, Zhang S\*, Zhi D\*.** Personalized genealogical history of UK individuals inferred from biobank-scale IBD segments. *BMC Biology* 19:32, 2021.
+9. **Naseri A, Tang K, Geng X, Shi J, Zhang J, Shakya P, Liu X, Zhang S\*, Zhi D\*.** Personalized genealogical history of UK individuals inferred from biobank-scale IBD segments. *BMC Biology* 19:32, 2021. [DOI](https://doi.org/10.1186/s12915-021-00964-y)
 
-10. **Tang K, Naseri A, Wei Y, Zhang S, Zhi D\*.** Open-source benchmarking of IBD segment detection methods for biobank-scale cohorts. *GigaScience* 11, 2022.
+10. **Tang K, Naseri A, Wei Y, Zhang S, Zhi D\*.** Open-source benchmarking of IBD segment detection methods for biobank-scale cohorts. *GigaScience* 11:giac111, 2022. [DOI](https://doi.org/10.1093/gigascience/giac111)
 
-11. **Wei Y, Naseri A, Zhi D\*, Zhang S\*.** RaPID-Query for fast identity by descent search and genealogical analysis. *Bioinformatics* 39(6):btad312, 2023.
+11. **Wei Y, Naseri A, Zhi D\*, Zhang S\*.** RaPID-Query for fast identity by descent search and genealogical analysis. *Bioinformatics* 39(6):btad312, 2023. [DOI](https://doi.org/10.1093/bioinformatics/btad312)
 
-12. **Chen H, Naseri A, Zhi D\*.** FiMAP: A fast identity-by-descent mapping test for Biobank-scale cohorts. *PLoS Genetics* 19(12):e1011057, 2023.
+12. **Chen H, Naseri A, Zhi D\*.** FiMAP: A fast identity-by-descent mapping test for Biobank-scale cohorts. *PLoS Genetics* 19(12):e1011057, 2023. [DOI](https://doi.org/10.1371/journal.pgen.1011057)
 
-13. **Naseri A, Yue W, Zhang S, Zhi D\*.** Fast inference of genetic recombination rates in biobank scale data. *Genome Research* gr.277676.123, 2023.
+13. **Naseri A, Yue W, Zhang S, Zhi D\*.** Fast inference of genetic recombination rates in biobank scale data. *Genome Research* 33(7):1015-1022, 2023. [DOI](https://doi.org/10.1101/gr.277676.123)
 
-14. **Naseri A, Zhi D, Zhang S.** Discovery of runs-of-homozygosity diplotype clusters and their associations with diseases in UK Biobank. *eLife* 13:e81698, 2024.
+14. **Naseri A, Zhi D, Zhang S.** Discovery of runs-of-homozygosity diplotype clusters and their associations with diseases in UK Biobank. *eLife* 13:e81698, 2024. [DOI](https://doi.org/10.7554/eLife.81698)
 
-15. **Wei Y, Zhi D, Zhang S.** Recomb-Mix: fast and accurate local ancestry inference. *Bioinformatics* (ISMB 2025) 41(Supplement 1):i180-i188, 2025.
+15. **Wei Y, Zhi D, Zhang S.** Recomb-Mix: fast and accurate local ancestry inference. *Bioinformatics* (ISMB 2025) 41(Supplement 1):i180-i188, 2025. [DOI](https://doi.org/10.1093/bioinformatics/btaf227)
 
 ---
 
